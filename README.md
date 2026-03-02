@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-</p>
-
-<p align="center">
   💻 Backend-focused Full-Stack Developer &nbsp;|&nbsp; 🧠 1700+ LeetCode Rating &nbsp;|&nbsp; 🎯 Building Scalable Systems
 </p>
 
@@ -78,7 +74,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
-
 
 ---
 
