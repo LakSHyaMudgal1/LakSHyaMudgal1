@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%20👋,%20I'm%20Lakshya%20Mudgal;Full-Stack%20MERN%20Developer;400%2B%20DSA%20Problems%20Solved;Backend%20%7C%20System%20Design%20Enthusiast%20🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%20👋,%20I'm%20Lakshya%20Mudgal;Full-Stack%20MERN%20Developer;400%2B%20DSA%20Problems%20Solved;Backend%20%7C%20System%20Design%20Enthusiast%20" />
 </h1>
 
 <p align="center">
-  💻 Backend-focused Full-Stack Developer &nbsp;|&nbsp; 🧠 1700+ LeetCode Rating &nbsp;|&nbsp; 🎯 Building Scalable Systems
+  Full-Stack Developer &nbsp;|&nbsp;  1700+ LeetCode Rating &nbsp;|&nbsp;  Building Scalable Systems
 </p>
 
 <p align="center">
@@ -81,19 +81,11 @@
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/LakSHyaMudgal1">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="mailto:lakshyawork14@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LakSHyaMudgal1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyawork14@gmail.com)
 
 ---
 
