@@ -24,26 +24,26 @@
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack:
 
-### 💻 Languages
-<p align="center">
+### Languages
+<p>
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
 </p>
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
 </p>
 
-### ⚙ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
 </p>
 
-### ☁️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,firebase" />
 </p>
 
 ---
