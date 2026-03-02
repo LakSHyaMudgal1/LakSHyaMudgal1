@@ -13,66 +13,37 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=header"/>
-
----
 
 ## 🚀 About Me
 
-```diff
-+ 🎓 B.Tech IT @ IIIT Una (CGPA: 8.19)
-+ 💼 Full-Stack MERN Developer Intern @ Infinito Comics
-+ 🧠 400+ DSA Problems Solved (1700+ Rating)
-+ 🏆 Hackathon Winner
-+ ⚡ Focused on Backend Architecture & Scalable Systems
-```
+- 🎓 B.Tech IT @ IIIT Una (CGPA: 8.19)  
+- 💼 MERN Developer Intern @ Infinito Comics  
+- 🧠 400+ DSA Problems | 1700+ Rating  
+- 🏆 Multiple Hackathon Podium Finishes  
+- ⚡ Interested in Backend Architecture & Scalable Systems  
 
 ---
 
 ## 🛠 Tech Stack
 
+### 💻 Languages
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+</p>
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+### 🌐 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
 
-<br/><br/>
+### ⚙ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
+### ☁️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 </p>
 
 ---
@@ -98,20 +69,12 @@
 
 ---
 
-## 📚 Core CS Foundation
-
-<p align="center">
-Data Structures • Algorithms • DBMS • Operating Systems • Computer Networks • System Design
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🥈 Hack 5.0 – NIT Hamirpur (2025)  
 - 🥉 Hack The Hills – IIIT Una (2025)  
 - 🥈 REIMAGINE Design Hackathon – IIIT Una  
-- 🔥 1700+ LeetCode Rating | 400+ Problems Solved  
+- 🔥 1700+ LeetCode Rating  
 
 ---
 
@@ -131,6 +94,6 @@ Data Structures • Algorithms • DBMS • Operating Systems • Computer Netwo
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00F7FF&height=110&section=footer"/>
 
 <p align="center"><i>“Engineering scalable systems, one optimized solution at a time.”</i></p>
