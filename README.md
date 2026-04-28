@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Full-Stack Developer &nbsp;|&nbsp;  1700+ LeetCode Rating &nbsp;|&nbsp;  Building Scalable Systems
+  Full-Stack Developer &nbsp;|&nbsp;  Knight at Leetcode &nbsp;|&nbsp;  Building Scalable Systems
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech IT @ IIIT Una (CGPA: 8.19)  
+- 🎓 B.Tech IT @ IIIT Una (CGPA: 8.29)  
 - 💼 MERN Developer Intern @ Infinito Comics  
-- 🧠 400+ DSA Problems | 1700+ Rating  
+- 🧠 800+ DSA Problems | 1850+ Rating @ Leetcode 
 - 🏆 Multiple Hackathon Podium Finishes  
 - ⚡ Interested in Backend Architecture & Scalable Systems  
 
@@ -77,7 +77,7 @@
 - 🥈 Hack 5.0 – NIT Hamirpur (2025)  
 - 🥉 Hack The Hills – IIIT Una (2025)  
 - 🥈 REIMAGINE Design Hackathon – IIIT Una  
-- 🔥 1700+ LeetCode Rating  
+- 🔥 1850+ LeetCode Rating  
 
 ---
 
